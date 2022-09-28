@@ -10,7 +10,7 @@
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Marcelo-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/114586186?s=400&u=414968ba52b532e6cd2e397958c1c2b77390fb19&v=4">
+  
 </div>
   
   ##
